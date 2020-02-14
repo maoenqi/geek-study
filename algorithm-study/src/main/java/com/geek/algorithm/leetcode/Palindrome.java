@@ -12,7 +12,7 @@ package com.geek.algorithm.leetcode;
 public class Palindrome {
 
     public static void main(String[] args) {
-        String str = "asdfa123";
+        String str = "A man, a plan, a canal: Panama";
         System.out.println(isPalindrome(str));
     }
 
